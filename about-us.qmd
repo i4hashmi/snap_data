@@ -1,0 +1,170 @@
+---
+title: "Meet the SNAP Organising Committee" 
+page-layout: full
+title-block-banner: "#28553A"
+title-block-banner-color: white
+
+format: 
+  html:
+    theme: spacelab
+    css: styles.css
+    
+# using bootstrap.com css grid layout
+# https://quarto.org/docs/output-formats/page-layout.html (not super helpful)
+# works on standard 12 column division of the page so .g-col-2 is 2 of these columns
+# and is 1/6th of the page
+# make sure you have a blank line before the .grid statement
+---
+
+
+<h2>Current Members</h2>
+
+::: {.grid}
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+![ ](images/com-Tricia-Hunt.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Patricia Hunt</span>
+<div class="make_space_10"></div>
+Professor in the School of Chemical and Physical Sciences
+:::
+::: {.g-col-2}
+![ ](images/com-Brendan-Harding.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Brendan Harding</span>
+<div class="make_space_10"></div>
+Lecturer in the Scool of Computational Mathematics and Statistics
+:::
+::: {.g-col-2}
+![ ](images/com-Liz-Keller.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Liz Keller</span>
+<div class="make_space_10"></div>
+Research Fellow in the Antarctic Research Centre
+:::
+::: {.g-col-2}
+![ ](images/com-Rohit-Duggal.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Rohit Duggal</span>
+<div class="make_space_10"></div>
+Rāpoi - Research Computing Specialist 
+:::
+:::{.g-col-2}
+![ ](images/com-Wanting-Jiao.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Wanting Jiao</span>
+<div class="make_space_10"></div>
+Scientist in the Ferrier Research Institute              
+:::
+::: {.g-col-1}
+:::
+
+:::
+
+:::{.grid}
+
+::: {.g-col-1}
+:::
+:::{.g-col-2}
+![ ](images/com-Yvette-Perrott.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Yvette Perrott</span>
+<div class="make_space_10"></div>
+Lecturer in Astrophysics in the School of Chemical and Physical Sciences
+:::
+:::{.g-col-2}
+![ ](images/com-Anne_Haase.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Anne Haase</span>
+<div class="make_space_10"></div>
+Head of School in the School of Health
+:::
+:::{.g-col-2}
+![ ](images/com-Stephen-Skalicky.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Stephen Skalicky</span>
+<div class="make_space_10"></div>
+Senior Lecturer in the School of Linguistics and Applied Language Studies 
+:::
+:::{.g-col-2}
+![ ](images/com-David-Alderman.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">David Alderman</span>
+<div class="make_space_10"></div>
+Systems Administrator, Digital Solutions 
+:::
+::: {.g-col-3}
+:::
+
+:::
+
+<h2>Student Representatives</h2>
+
+::: {.grid}
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-2}
+![ ](images/com-Richard-Littauer.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Richard Littauer</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Engineering and Computer Science
+:::
+
+::: {.g-col-2}
+![ ](images/com-Angela-Xue.png){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Angela Xue</span>
+<div class="make_space_10"></div>
+PhD Candidate in the School of Chemical and Physical Sciences
+:::
+
+
+
+:::
+
+<h2>Retired Members</h2>
+
+:::{.grid}
+
+::: {.g-col-1}
+:::
+
+:::{.g-col-2}
+![ ](images/com-Markus-Luczak-Roesch.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Markus <br> Luczak-Roesch</span>
+<div class="make_space_10"></div>
+Markus Luczak-Roesch
+Associate Professor within the School of Information Management 
+:::
+:::{.g-col-2}
+![ ](images/com-Konstantina-Vasileva.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Konstantina <br>  Vasileva</span>
+<div class="make_space_10"></div>
+Research Capability Team Leader in the Centre for Academic Development
+:::
+::: {.g-col-2}
+![ ](images/com-David_OSullivan.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">David O'Sullivan</span>
+<div class="make_space_10"></div>
+Professor of Geography and Geospatial Science in the School of Geography, Environment and Earth Sciences
+:::
+:::{.g-col-2}
+![ ](images/col-Matt-Plummer.jpg){fig-align="center" width="90%"}
+<div class="make_space_10"></div>
+<span class="badge bg-primary" style="font-size: 1.3vw">Matt Plummer</span>
+<div class="make_space_10"></div>
+Senior Research Partner in the Research Office
+:::
+::: {.g-col-3}
+:::
+
+:::
+

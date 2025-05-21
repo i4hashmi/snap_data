@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: ../SNAP-decisions
+  resources: 
+    - CODE_OF_CONDUCT.md
+    - README.md
+    - CONTRIBUTING.md
+    - LICENSE
+  render:
+    - "*.qmd"
+  #  - "!README.md" # automatically never rendered
+  #  - "!CODE_OF_CONDUCT.md" # don't need this with *.qmd specified
+
+website:
+  title: snap-decisions
+  back-to-top-navigation: true
+  page-footer: "© 2025 SNAP. Licensed under CC BY NC ND 4.0" 
+
+  navbar:
+    background: dark    
+    search: true
+    title: false
+    logo: "images/small_no_text.png" 
+    collapse: false
+    left:
+      - text: Home
+        file: index.qmd
+      - text: "About Us"
+        file: about-us.qmd
+      - text: "Contact Us"
+        file: contacts.qmd
+      - text: Blog
+        file: blog.qmd
+#      - text: SNAP-related-jobs
+#        file: jobs.qmd
+#      - file: events.qmd
+#      - file: code.qmd
+#      - file: courses.qmd
+#    right:
+#      - icon: github
+#        href: https://github.com/
+
+  sidebar:
+      style: docked
+#      logo: "images/small_clear.png"
+      pinned: false  
+      collapse-level: 2 
+      border: false
+      alignment: left
+      background: light    
+      contents:
+        - text: Home
+          file: index.qmd
+        - text: About us
+          file: about-us.qmd
+        - text: Contact us
+          file: contacts.qmd
+        - text: Blog
+          file: blog.qmd
+#        - text: Jobs
+#          file: jobs.qmd
+#        - events.qmd
+#        - code.qmd
+#        - courses.qmd
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    grid:
+      sidebar-width: 150px
+      body-width: 1050px
+      margin-width: 300px
+      gutter-width: 1rem
+
+
