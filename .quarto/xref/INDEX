@@ -1,0 +1,116 @@
+{
+  "index.qmd": {
+    "index.html": "d991a882"
+  },
+  "about-us.qmd": {
+    "about-us.html": "98f7b09b"
+  },
+  "blog.qmd": {
+    "blog.html": "1666f2cf"
+  },
+  "contacts.qmd": {
+    "contacts.html": "55fa0d0d"
+  },
+  "jobs.qmd": {
+    "jobs.html": "4b9354d9"
+  },
+  "posts/2022_april_digital_humanities_interview/index.qmd": {
+    "index.html": "e75a260b"
+  },
+  "posts/2022_april_inaugural-workshop/index.qmd": {
+    "index.html": "0d8c5d85"
+  },
+  "posts/2022_dec_quantum_chemistry/index.qmd": {
+    "index.html": "d25a09d5"
+  },
+  "posts/2022_march_survey-summary/index.qmd": {
+    "index.html": "c6da6a3d"
+  },
+  "posts/2022_may_software_carpentry/index.qmd": {
+    "index.html": "a1b3ca9c"
+  },
+  "posts/2022_nov_inaugural-training-workshop/index.qmd": {
+    "index.html": "725ca3dd"
+  },
+  "posts/2022_nov_snap_coffee/index.qmd": {
+    "index.html": "48020f7a"
+  },
+  "posts/2022_sept_antartic_winter_school/index.qmd": {
+    "index.html": "3b4e5cc4"
+  },
+  "posts/2023_april_hpc_morning_tea/index.qmd": {
+    "index.html": "5705c975"
+  },
+  "posts/2023_april_ligand_docking_code/index.qmd": {
+    "index.html": "c11bb668"
+  },
+  "posts/2023_august_andre/index.qmd": {
+    "index.html": "6336f464"
+  },
+  "posts/2023_august_cloudcomputing/index.qmd": {
+    "index.html": "af7c8352"
+  },
+  "posts/2023_dec_auckland_eresearch/index.qmd": {
+    "index.html": "20e3ba7a"
+  },
+  "posts/2023_dec_christmas_drinks/index.qmd": {
+    "index.html": "4ba4d2fd"
+  },
+  "posts/2023_feb_fluids_conference/index.qmd": {
+    "index.html": "8ee4e6ca"
+  },
+  "posts/2023_march_snap_coffee/index.qmd": {
+    "index.html": "c61d328a"
+  },
+  "posts/2023_may_chat-gpt_workshop/index.qmd": {
+    "index.html": "77ea768c"
+  },
+  "posts/2023_may_markus/index.qmd": {
+    "index.html": "554265e8"
+  },
+  "posts/2023_may_snap_newsletter/index.qmd": {
+    "index.html": "31b841e1"
+  },
+  "posts/2023_sept_defend_hpc/index.qmd": {
+    "index.html": "53be4ce4"
+  },
+  "posts/2024_april_using_scikit/index.qmd": {
+    "index.html": "a9224aed"
+  },
+  "posts/2024_august_git_and_precommit/index.qmd": {
+    "index.html": "c56f4da6"
+  },
+  "posts/2024_dec_christmas_drinks/index.qmd": {
+    "index.html": "ae299d7d"
+  },
+  "posts/2024_dec_morning_tea/index.qmd": {
+    "index.html": "57f98f79"
+  },
+  "posts/2024_dec_research_data/index.qmd": {
+    "index.html": "7e131939"
+  },
+  "posts/2024_feb_e-researchNZ/index.qmd": {
+    "index.html": "a0c65922"
+  },
+  "posts/2024_feb_planning_workshop/index.qmd": {
+    "index.html": "da92e548"
+  },
+  "posts/2024_july_mpi_workshop/index.qmd": {
+    "index.html": "91e98737"
+  },
+  "posts/2024_may_troubleshoot_code/index.qmd": {
+    "index.html": "3dda951c"
+  },
+  "posts/2024_sept_REANNZ_info/index.qmd": {
+    "index.html": "c5c326ac"
+  },
+  "posts/2025_april_discord/index.qmd": {
+    "index.html": "afca20f2"
+  },
+  "posts/2025_april_workshop/index.qmd": {
+    "index.html": "9a377ca3"
+  },
+  "posts/2025_feb_reprod_research/index.qmd": {
+    "index.html": "d3a06846"
+  }
+}
